@@ -70,4 +70,4 @@ int main() {
     moverCavalo();
 
     return 0;
-} // fim da função main
+} // fim da função mainf
